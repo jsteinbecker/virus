@@ -1,0 +1,12 @@
+{
+   "jupyter.kernels.filter": [
+      {
+         "path": "/usr/bin/python",
+         "type": "pythonEnvironment"
+      },
+      {
+         "path": "~/Library/r-miniconda/envs/r-reticulate/bin/python",
+         "type": "pythonEnvironment"
+      }
+   ]
+}
